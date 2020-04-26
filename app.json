@@ -1,9 +1,7 @@
 {
   "expo": {
-    "name": "expoproject",
-    "slug": "expoproject",
-    "privacy": "public",
-    "sdkVersion": "36.0.0",
+    "name": "baseNewProject",
+    "slug": "baseNewProject",
     "platforms": [
       "ios",
       "android",
